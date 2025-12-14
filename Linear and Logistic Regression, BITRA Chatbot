@@ -33,3 +33,27 @@ However, it assumes a linear relationship between features and the log-odds of t
 The algorithm is simple, efficient, and interpretable.
 It is widely used in applications such as spam detection, medical diagnosis, fraud detection, and credit scoring.
 Logistic Regression can also be extended to handle multiclass problems using One-vs-Rest or Softmax techniques.
+
+
+                  BITRA Chatbot
+
+*BITRA is an AI-based chatbot developed for Bannari Amman Institute of Technology to support visitors on the institute’s website. Its primary function is to respond to frequently asked questions related to 
+admissions, academic programs, fee structure, hostel facilities, and contact information.
+
+*The chatbot uses Natural Language Processing (NLP) to interpret user queries written in simple English. It operates as a retrieval-based system, where responses are selected from a predefined knowledge base rather 
+than being generated dynamically.
+
+*BITRA performs intent recognition to understand the user’s purpose, such as inquiries about admissions, courses, or departments. The knowledge base stores structured information about the institution, 
+including departments, programs, and campus facilities.
+
+*The chatbot follows a structured workflow: user input → NLP processing → intent classification → response retrieval → final reply. This approach enables quick and accurate responses while maintaining consistency.
+
+*By providing instant answers, BITRA improves website navigation and reduces the need for users to manually search for information. It offers 24/7 assistance, helping to minimize the workload of the
+administrative support staff.
+
+*The chatbot plays a significant role in assisting prospective students by offering immediate admission-related guidance. To ensure reliability, it uses rule-based response templates.
+
+*BITRA features a user-friendly chat interface integrated into the BIT website. However, it does not utilize advanced generative AI models like ChatGPT and may struggle with complex or unforeseen queries.
+
+*Overall, BITRA enhances communication on the BIT website by delivering fast, dependable, and automated responses.
+
